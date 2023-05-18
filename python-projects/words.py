@@ -1,0 +1,1 @@
+words = ["react","submit","elevate","succumb","accept"]
